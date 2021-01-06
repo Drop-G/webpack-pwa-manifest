@@ -32,7 +32,7 @@
   "dependencies": {
     "css-color-names": "^1.0.0",
     "jimp": "^0.6.0",
-    "mime": "^2.4.0"
+    "mime": "^2.4.7"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
